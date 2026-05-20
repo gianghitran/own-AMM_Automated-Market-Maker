@@ -1,5 +1,5 @@
 # own-AMM_Automated-Market-Maker
-We are going to build a minimal but complete constant-product AMM that follows the classic x * y = k formula.
+Build a minimal but complete constant-product AMM that follows the classic x * y = k formula.
 
 ### Tutorial
 `https://uit-amm-101.vercel.app/`
