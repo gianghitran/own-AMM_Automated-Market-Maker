@@ -1,0 +1,13 @@
+{
+  "transactions": [
+    {
+      "rpc": "https://ethereum-sepolia-public.nodies.app"
+    },
+    {
+      "rpc": "https://ethereum-sepolia-public.nodies.app"
+    },
+    {
+      "rpc": "https://ethereum-sepolia-public.nodies.app"
+    }
+  ]
+}
