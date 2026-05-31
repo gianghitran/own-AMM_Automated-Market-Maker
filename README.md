@@ -3,6 +3,7 @@ Build a minimal but complete constant-product AMM that follows the classic x * y
 
 ### Tutorial
 `https://uit-amm-101.vercel.app/`
+Author: Mr.Tron@Trx_Tra
 ### Running
 
 - Deploy:
